@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(167, 160, 163);
+    color: red;
+}
+
+#nav-bar {
+    position: relative;
+    top: 15cm;
+}
+
+#description {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#table-head {
+    color: rgb(227, 14, 113);
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px 1px rgb(26, 198, 26);
+}
+
+#t-body {
+    color: black;
+    text-align: center;
+}
